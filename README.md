@@ -1,3 +1,3 @@
-# Using Mixture of Gaussian model to distingusih apple and non-apple pixels
+# Using Mixture of Gaussian model to distinguish apple and non-apple pixels
 
 

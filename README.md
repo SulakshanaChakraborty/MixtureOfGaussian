@@ -1,4 +1,4 @@
-# Using Mixture of Gaussian model to distinguish apple and non-apple pixels
+# Mixture of Gaussian model to distinguish apple and non-apple pixels
 
 Genrating posterior probability masks to differentiate apple and non-apple pixels given an image using Mixuture of Gaussian model. 
 
